@@ -1,10 +1,10 @@
 # Description
-This repo contains code for the Socket.IO chat application in their [get started guide]("https://socket.io/get-started/chat/").
+This repo contains code for the Socket.IO chat application in their [get started guide](https://socket.io/get-started/chat/).
 
 It's also one of our in class labs projects.
 
 # Usage
-You can visit the [online guide]("https://socket.io/get-started/chat/") and do write the code and read their explanations.
+You can visit the [online guide](https://socket.io/get-started/chat/) and do write the code and read their explanations.
 
 **OR**
 
